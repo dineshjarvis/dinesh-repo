@@ -6,9 +6,16 @@ public class Sample {
 	{
 		System.out.println("hello world");
 	}
+
 	public static void deva() {
 		// TODO Auto-generated method stub
 System.out.println("kjgjg");
+	}
+
+	public static void Sample() {
+		// TODO Auto-generated constructor stub
+		System.out.println("hgg");
+	
 	}
   private void username() {
 	// TODO Auto-generated method stub
